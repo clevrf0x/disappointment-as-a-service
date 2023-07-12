@@ -1,34 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Disappointment As A Service
+Welcome to Disappointment As A Service! This project is intended as a fun and joke project, created to bring a few laughs to the office.
 
-## Getting Started
+### Description
+Unbox, embrace the disappointment, and enjoy a good laugh with your colleagues.  Our goal is to turn your high hopes into soul-crushing disappointment with a touch of humor.
+### Features
+- Premium letdowns: We specialize in delivering top-tier disappointment experiences.
+- Dashed dreams: Watch as your aspirations crumble before your eyes.
+- Shattered expectations: Experience the joy of unmet expectations firsthand.
+- Customized letdowns: We cater to a wide range of interests, so you can choose your preferred disappointment experience.
+### How to Use
+Visit our website at <a href="https://disappointmentasaservice.site"> Disappointment as a service </a>.
 
-First, run the development server:
+### Contribution
+This project is intended for internal use and was created purely for fun. We don't actively encourage external contributions. However, if you have an idea to enhance the hilarity of Disappointment As A Service, feel free to share it with your colleagues or make a suggestion for future development during your coffee breaks.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### Disclaimer
+Please note that Disappointment As A Service is purely a fictional concept and is not intended to promote or encourage negativity or harm. We believe in spreading joy and laughter in a lighthearted manner. Any resemblance to real disappointment experiences is purely coincidental.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### License
+This project is released under the MIT License. Feel free to fork, modify, and share this project with your colleagues for a good laugh.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Laugh responsibly, and enjoy the art of disappointment!
